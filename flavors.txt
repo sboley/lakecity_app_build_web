@@ -1,19 +1,19 @@
 # HOURS
-Monday: 2pm - 9pm
-Tuesday: 2pm - 9pm
-Wednesday: 2pm - 9pm
+Monday: 2pm - 8pm
+Tuesday: 2pm - 8pm
+Wednesday: 2pm - 8pm
 Thursday: 2pm - 9pm
 Friday: 12pm - 9pm
 Saturday: 12pm - 9pm
-Sunday: 12pm - 9pm
+Sunday: 12pm - 8pm
 
 # FLAVORS
 Granny's Pumpkin
 Smooth Peanut Butter
-White Tiger
-Strawbarb Cheesecake
-Maple Pumpkin Swirl
-French Vanilla Wafer
+Maker's Mark Butter Pecan
+Holiday Trick-or-Treat
+Hogwart's Butterbeer
+Jack-o-Lantern
 Coffee
 *Dairy Free: Jolly Blue Razz
 *Dairy Free: Shirley Temple
