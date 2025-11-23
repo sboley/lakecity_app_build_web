@@ -8,15 +8,17 @@ Saturday: 12pm - 9pm
 Sunday: 12pm - 8pm
 
 # FLAVORS
-Granny's Pumpkin
+Pumpkin Sugar Cookie
 The King
-M&M Swirl
+Peanut Butter Chocolate Swirl
 Bourbon Coffee Creme
 Salty Apple
 French Vanilla Wafer
 Pina Colada
 *Dairy Free: Strawberry
 *Dairy Free: Maraschino Cherry
+*Dairy Free: Jolly Blue Razz
+*Dairy Free: Shirley Temple
 
 Chocolate
 Vanilla
