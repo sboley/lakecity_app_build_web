@@ -8,12 +8,12 @@ Saturday: 12pm - 9pm
 Sunday: 12pm - 8pm
 
 # FLAVORS
-Pumpkin Sugar Cookie
-Pumpkin Roll
-Chocolate Freckle
+Santa's Candy Cane
+Oh Christmas Tree
+Cherry Christmas
 Peppermint Mocha
-Pecan Pie Swirl
-Twixter
+Eggnog
+Christmas Sugar Cookie
 Pina Colada
 *Dairy Free: Strawberry
 *Dairy Free: Maraschino Cherry
