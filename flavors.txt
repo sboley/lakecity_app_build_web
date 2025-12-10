@@ -8,7 +8,7 @@ Saturday: 12pm - 9pm
 Sunday: 12pm - 8pm
 
 # FLAVORS
-M&M Swirl
+Caramel Apple Cheesecake
 Twixter
 Santa's Candy Cane
 Chocolate Freckle
