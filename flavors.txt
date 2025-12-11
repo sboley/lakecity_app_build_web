@@ -8,12 +8,11 @@ Saturday: 12pm - 9pm
 Sunday: 12pm - 8pm
 
 # FLAVORS
-Caramel Apple Cheesecake
+Candy Cane Fudge
 Twixter
 Santa's Candy Cane
 Chocolate Freckle
 Peppermint Mocha
-Pumpkin Roll
 Fluffernutter Delight
 Apple Pie
 *Dairy Free: Strawberry
@@ -24,7 +23,7 @@ Apple Pie
 Chocolate
 Vanilla
 Butter Pecan
-Buckeye(SOLD OUT)
+Buckeye
 Dulce De Leche
 Cookie Dough
 Salty Caramel
