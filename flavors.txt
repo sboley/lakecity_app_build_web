@@ -8,10 +8,8 @@ Saturday: 12pm - 9pm
 Sunday: 12pm - 8pm
 
 # FLAVORS
-Candy Cane Fudge
 Twixter
 Santa's Candy Cane
-Chocolate Freckle
 Peppermint Mocha
 Fluffernutter Delight
 Oh Christmas Tree
@@ -31,7 +29,7 @@ Salty Caramel
 Strawberry
 Cookies-n-Creme
 Mint Freckle
-Blue Moon
+Blue Moon (Sold Out)
 Peanut Butter Cup
 Cookie Monster
 Birthday Cake
