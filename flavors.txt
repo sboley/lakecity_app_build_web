@@ -8,15 +8,15 @@ Saturday: 12pm - 9pm
 Sunday: 12pm - 8pm
 
 # FLAVORS
-Twixter
+Butterscotch Tracks
 Santa's Candy Cane
 Peppermint Mocha
 Fluffernutter Delight
 Oh Christmas Tree
 Bavarian Bourbon Christmas
-Eggnog
+Chocolate Peppermint Marshmallow
 Black Raspberry cheesecake
-Candied Pecan Cheesecake
+Caramel Pecan Fudge
 *Dairy Free: Strawberry
 *Dairy Free: Jolly Blue Razz
 *Dairy Free: Shirley Temple
@@ -30,7 +30,7 @@ Cookie Dough
 Salty Caramel
 Strawberry
 Cookies-n-Creme
-Mint Freckle
+Mint Freckle (Sold Out)
 Blue Moon
 Peanut Butter Cup
 Cookie Monster
