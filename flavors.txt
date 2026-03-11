@@ -17,9 +17,6 @@ Italian Coconut Cake
 
 *Dairy Free: Strawberry Sorbet
 
-* Limited-Time
-N/A
-
 * Every Day Flavors
 Cookie Dough
 Buckeye
@@ -35,3 +32,6 @@ Mint Freckle
 Vanilla
 Salty Caramel
 Cookies-n-creme
+
+# Limited-Time Sundaes
+N/A
